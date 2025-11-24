@@ -41,7 +41,7 @@ export default function AboutPage() {
               <div className="text-center">
                 <div className="relative w-64 h-64 mx-auto mb-6">
                   <Image
-                    src="/Pratyush.JPG"
+                    src="/pratyush.JPG"
                     alt="Pratyush Rohilla"
                     fill
                     className="rounded-full object-cover"
@@ -92,7 +92,7 @@ export default function AboutPage() {
                   >
                     <Youtube size={24} />
                   </a>
-                  
+
                 </div>
               </div>
             </GlassmorphismCard>
@@ -111,11 +111,11 @@ export default function AboutPage() {
               </h3>
               <div className="space-y-4 text-gray-300">
                 <p>
-                I am a video editor and creative strategist who understands what works on social media. I stay highly active across platforms and study trends deeply, which helps me create content that performs. My personal reach is strong because I know how to build attention and engagement.
+                  I am a video editor and creative strategist who understands what works on social media. I stay highly active across platforms and study trends deeply, which helps me create content that performs. My personal reach is strong because I know how to build attention and engagement.
 
-I have edited reels and videos that have reached millions and helped clients grow their presence. I have also worked with well-known brands like GNC and Bellavita as part of their marketing and athlete teams, which has given me solid experience in brand storytelling and digital strategy.
+                  I have edited reels and videos that have reached millions and helped clients grow their presence. I have also worked with well-known brands like GNC and Bellavita as part of their marketing and athlete teams, which has given me solid experience in brand storytelling and digital strategy.
 
-Along with editing, I am confident behind the camera. From framing to lighting to capturing the perfect moment, I bring both creativity and strategy together to deliver content that not only looks good but drives results.
+                  Along with editing, I am confident behind the camera. From framing to lighting to capturing the perfect moment, I bring both creativity and strategy together to deliver content that not only looks good but drives results.
                 </p>
                 <p>
                   If you're looking for someone who blends creativity with
