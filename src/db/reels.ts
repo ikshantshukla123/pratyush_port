@@ -21,9 +21,9 @@ export const allReels: VideoProject[] = [
 
   {
     id: "reel-2",
-    video_title: "Dynamic Promo Reel",
-    video_description: "A fast-paced promo reel showcased on Instagram.",
-    tags: ["Promo", "Reel"],
+    video_title: "AVANYA - Vietnam Trip Reel",
+    video_description: "Edited reel of Avanya's Vietnam trip. Avanya was a fixed client and this edit highlights the trip visuals and branding.",
+    tags: ["Avanya", "Travel", "Reel"],
     cover_image: "/project-images/two.png",
     publish_date: "2024-06-01",
     client_name: "Client",
@@ -35,11 +35,11 @@ export const allReels: VideoProject[] = [
     duration: "0:30",
     software_used: ["Davinci Resolve"],
   },
-    {
+  {
     id: "reel-3",
-    video_title: "NEW ONE",
-    video_description: "A fast-paced promo reel showcased on Instagram.",
-    tags: ["Promo", "Reel"],
+    video_title: "AVANYA - Viral Reel (18M Reach)",
+    video_description: "Avanya's reel that went viral and reached up to 18 million views — edited to maximize engagement and shareability.",
+    tags: ["Avanya", "Viral", "Reel"],
     cover_image: "/project-images/two.png",
     publish_date: "2024-06-01",
     client_name: "Client",
@@ -51,12 +51,12 @@ export const allReels: VideoProject[] = [
     duration: "0:30",
     software_used: ["Davinci Resolve"],
   },
- 
-   {
+
+  {
     id: "reel-4",
-    video_title: "NEW ONE",
-    video_description: "A fast-paced promo reel showcased on Instagram.",
-    tags: ["Promo", "Reel"],
+    video_title: "Mohit Chauhan - Epoque 2025 Reel",
+    video_description: "Edited reel of Mohit Chauhan's performance during Epoque 2025 college fest — captured his visit and highlights from the event.",
+    tags: ["Mohit Chauhan", "Epoque2025", "Reel"],
     cover_image: "/project-images/mohit_chauhan.webp",
     publish_date: "2024-06-01",
     client_name: "Client",
