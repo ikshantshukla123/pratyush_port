@@ -2,11 +2,11 @@
 
 A modern, responsive video editor portfolio website showcasing professional video editing work, motion graphics, and client projects. Built with Next.js 15 and featuring smooth animations, YouTube integration, and a sleek glassmorphism design.
 
-![Project Overview](./public/demo.png)
+![Project Overview](./public/demotwo.png)
 
 
 
-## Features
+
 
 ### Core Features
 
@@ -176,7 +176,7 @@ The portfolio supports the following video categories:
 1. **Clone the repository**
 
 ```shellscript
-git clone 
+git clone https://github.com/ikshantshukla123/pratyush_port.git
 cd pratyush_port
 ```
 
