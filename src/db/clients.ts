@@ -3,32 +3,32 @@ import { Client } from "@/types/videos";
 export const clientsData: Client[] = [
   {
     id: "stack-learner",
-    name: "Stack Learner",
-    logo: "/companies/sl-logo.png",
+    name: "DRIP TRIP",
+    logo: "/companies/drip.png",
   },
   {
     id: "edu-bridge-academy",
-    name: "Edu Bridge Academy",
-    logo: "/companies/edu-bridge-academy.jpg",
+    name: "EHS solutions",
+    logo: "/companies/EHS.png",
   },
   {
     id: "eco-revolution",
-    name: "EcoRevolution",
-    logo: "/companies/eco-revolution.jpg",
+    name: "Hamper Heven",
+    logo: "/companies/Hamper.png",
   },
   {
     id: "growthleo",
-    name: "GrowthLeo LLC",
-    logo: "/companies/growthleo.png",
+    name: "KIET",
+    logo: "/companies/KIET.jpg",
   },
   {
     id: "impel-it",
-    name: "Impel IT",
-    logo: "/companies/impel-it.png",
+    name: "Prima Focus",
+    logo: "/companies/PRIMA.png",
   },
   {
     id: "ecofarming",
-    name: "Eco Farming",
-    logo: "/companies/Ecofarming.png",
+    name: "KMS",
+    logo: "/companies/KMS.png",
   },
 ];

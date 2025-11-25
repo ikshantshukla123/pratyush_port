@@ -27,14 +27,6 @@ export const videoEditingSkills = [
     description: "Motion graphics, visual effects, and advanced animations",
     color: "text-blue-400",
   },
-  {
-    name: "Adobe Photoshop",
-    image_link: "/tools/Adobe_Photoshop_CC.png",
-    icon: Palette,
-    description: "Thumbnail design, graphics creation, and image manipulation",
-    color: "text-cyan-400",
-  },
- 
 ];
 
 export const specializations = [
@@ -57,7 +49,7 @@ export const specializations = [
 
 
 
-    
+
     title: "YouTube Content Creation",
     skills: [
       "Retention Editing",
@@ -83,18 +75,6 @@ export const specializations = [
       "Creating polished corporate content that communicates effectively",
   },
   {
-    title: "Educational Content",
-    skills: [
-      "Screen Recording",
-      "Tutorial Structure",
-      "Clear Explanations",
-      "Interactive Elements",
-    ],
-    icon: "📚",
-    description:
-      "Specialized in making complex topics easy to understand through video",
-  },
-  {
     title: "Motion Graphics",
     skills: [
       "2D Animation",
@@ -104,6 +84,16 @@ export const specializations = [
     ],
     icon: "✨",
     description: "Creating eye-catching animations that enhance storytelling",
+  },
+  {
+    title: "Production",
+    skills: [
+      "Camera handling",
+      "Video, light, sound production ::",
+    ],
+    icon: "🎥",
+    description:
+      "Hands-on production skills including camera operation, lighting setups, and sound recording",
   },
   {
     title: "Color Grading",

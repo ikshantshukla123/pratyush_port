@@ -120,7 +120,7 @@ export default function AboutPage() {
                 <p>
                   If you're looking for someone who blends creativity with
                   technical skill, communicates clearly, and truly cares about
-                  making your content stand out — I'm your guy.
+                  making your content stand out. I'm your guy.
                 </p>
               </div>
             </GlassmorphismCard>
@@ -147,7 +147,7 @@ export default function AboutPage() {
         >
           <GlassmorphismCard className="p-8">
             <h3 className="text-2xl font-semibold mb-8 text-white text-center">
-              Trusted by Amazing Clients
+              WORK WITH-
             </h3>
 
             <Marquee speed={40} pauseOnHover className="pt-4">

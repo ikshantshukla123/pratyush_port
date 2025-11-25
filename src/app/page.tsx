@@ -452,12 +452,7 @@ export default function HomePage() {
                   "Engaging edits optimized for different platforms with perfect pacing and retention hooks.",
                 icon: "🎬",
               },
-              {
-                title: "Course & Tutorial Video Editing",
-                description:
-                  "Clear, educational content with smooth transitions and professional presentation.",
-                icon: "📚",
-              },
+              
               {
                 title: "Motion Graphics & Animated Titles",
                 description:
