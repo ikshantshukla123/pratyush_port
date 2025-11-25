@@ -44,7 +44,7 @@ export default function Navbar() {
             <div className="w-7 h-7 rounded-lg flex items-center justify-center">
               <Clapperboard />
             </div>
-            <span className="text-xl font-bold text-white">itsPratyush</span>
+            <span className="text-xl font-bold text-white">Pratyush Rohilla</span>
           </Link>
 
           {/* Desktop Navigation */}
