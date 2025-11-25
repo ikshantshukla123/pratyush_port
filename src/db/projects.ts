@@ -21,15 +21,15 @@ export const allVideoProjects: VideoProject[] = [
   },
   {
     id: "gaUMi_npkjI",
-    video_title: "Epoque2025",
-    video_description: `College fest `,
+    video_title: "After movie edit",
+    video_description: `A high-energy fest aftermovie capturing the vibe, crowd moments, performances, and highlights with smooth transitions and rhythmic cuts. `,
     tags: [
-      "Programming Basics",
+     
       "Education",
       "Beginner Tips",
       "Explainer Video",
     ],
-   cover_image: "https://img.youtube.com/vi/gaUMi_npkjI/hqdefault.jpg",
+   cover_image: "/project-images/aftermovie.png",
     publish_date: "2024-01-19",
     client_name: "College Fest",
     client_image: "/companies/KIET.jpg",

@@ -5,7 +5,7 @@ export const allReels: VideoProject[] = [
  {
     id: "reel-1",
     video_title: "Event Organising Company Reel",
-    video_description: "Unique original Idea of reel shoot and edit made from scratch.",
+    video_description: "A event reel designed with creative angles, smooth transitions, and unique concept. I handled both the shoot and edit.",
     tags: ["Event Organising", "DRIP TRIP", "Reel"],
     cover_image: "/project-images/drip.PNG",
     publish_date: "2024-06-01",
@@ -20,8 +20,8 @@ export const allReels: VideoProject[] = [
   },
   {
     id: "reel-2",
-    video_title: "AVANYA - Viral Reel (18M Reach)",
-    video_description: "Avanya's reel that went viral and reached up to 18 million views — edited to maximize engagement and shareability.",
+    video_title: "High reach for client",
+    video_description: "56M+ reach generated through my edits. I also provided content ideas and upload strategy to the client.",
     tags: ["Avanya", "Viral", "Reel"],
     cover_image: "/project-images/avanya.PNG",
     publish_date: "2024-06-01",
